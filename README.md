@@ -3,7 +3,7 @@
 Este documento describe el diseño de la base de datos utilizada para la gestión de reservaciones en un hotel. La base de datos ha sido implementada en SQLite y cumple con los requisitos de integridad y normalización necesarios para asegurar una correcta administración de la información relacionada con los huéspedes, habitaciones, reservaciones, pagos y otros elementos clave del sistema.
 
 ### Diagrama de Entidad y relacion 
-![DiagramaER](Diagrama.png)
+![DiagramaER](Diagrama2.jpeg)
 
 
 ## Estructura de Tablas
